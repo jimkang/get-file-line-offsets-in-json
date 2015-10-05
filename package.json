@@ -1,0 +1,23 @@
+{
+  "name": "get-file-line-offsets-in-json",
+  "version": "1.0.0",
+  "description": "A util that simply runs linechomper on a file, then reports the results as JSON.",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/get-file-line-offsets-in-json.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/get-file-line-offsets-in-json/issues"
+  },
+  "homepage": "https://github.com/jimkang/get-file-line-offsets-in-json",
+  "devDependencies": {},
+  "dependencies": {
+    "line-chomper": "^0.5.0"
+  }
+}
