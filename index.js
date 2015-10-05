@@ -1,3 +1,5 @@
+#!/bin/env node
+
 var lineChomper = require('line-chomper');
 
 if (process.argv.length < 3) {
