@@ -1,6 +1,6 @@
 {
   "name": "get-file-line-offsets-in-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A util that simply runs linechomper on a file, then reports the results as JSON.",
   "main": "index.js",
   "bin": "./index.js",
